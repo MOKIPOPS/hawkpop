@@ -398,7 +398,7 @@ h1 span{color:var(--red2)}
     <div class="activation">
       <article class="step">
         <div class="num">01 • Build Curiosity</div>
-        <h3>The Groove Show</h3>
+        <h3>The Grove Show</h3>
         <p>Student challenges, giveaways, social content and HAWKPOP sightings create buzz before game day.</p>
       </article>
       <article class="step">
